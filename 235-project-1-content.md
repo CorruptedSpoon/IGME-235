@@ -25,8 +25,9 @@ The game should be mostly intuitive. Instructions will include an image showing 
 ### Player learning
 The game is based on a model of improving a high score, so the player will naturally become mechanically better as they play more and die more. In addition, the stat upgrade system will allow players to experiment with different paths, and see what strategy works best.
 
-## VII. Screenshot
+## VII. Screenshots
 ![alt text](https://github.com/CorruptedSpoon/IGME-235/blob/master/screenshot1.png "Screenshot1")
+![alt text](https://github.com/CorruptedSpoon/IGME-235/blob/master/screenshot2.png "Screenshot2")
 
 ## VIII. About the developer
 Van Edelman is a second year Game Design and Development major at RIT. He enjoys programming, playing video games, and longboarding.
